@@ -2,3 +2,4 @@ This is file2.txt
 Weather is quite good today
 enjoy the day
 what a pleasant day
+Never give up
