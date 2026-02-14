@@ -3,3 +3,4 @@ Today is Thursday
 Welcome everyone
 adding a new line
 change from last time
+new commit for featureA
