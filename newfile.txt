@@ -1,2 +1,3 @@
 this is new file for learning git clone etc...
 added a line from remote
+line 3 
